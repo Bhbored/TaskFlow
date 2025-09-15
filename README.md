@@ -143,9 +143,6 @@ This project showcases proficiency in:
 
 
 
-## 🤝 Contributing
-
-This is a demonstration project showcasing Flutter development skills. Feel free to use it as a reference or starting point for your own projects.
 
 
 ---
