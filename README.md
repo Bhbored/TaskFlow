@@ -157,8 +157,8 @@ This project showcases proficiency in:
 - **Animations**: Smooth transitions and micro-interactions
 - **Feedback**: Clear user feedback for all actions
 
-## 📈 Future Enhancements
 
+<<<<<<< HEAD
 Potential improvements for production:
 
 - Cloud synchronization
@@ -168,15 +168,14 @@ Potential improvements for production:
 - Offline mode improvements
 - Export/import functionality
 - Custom themes and personalization
+=======
+>>>>>>> 2ea644473b376fc8b05cd64134ecdfb9c110dd56
 
-## 🤝 Contributing
 
-This is a demonstration project showcasing Flutter development skills. Feel free to use it as a reference or starting point for your own projects.
-
-## 📄 License
-
-This project is created for demonstration purposes and showcases Flutter development skills.
 
 ---
+<<<<<<< HEAD
 
 **TaskFlow AI** - Your intelligent productivity companion, built with Flutter ❤️
+=======
+>>>>>>> 2ea644473b376fc8b05cd64134ecdfb9c110dd56
