@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/task.dart';
@@ -23,7 +22,6 @@ class TaskProvider with ChangeNotifier {
 
   List<Task> get filteredTasks {
     return _tasks.where((task) {
-      // Search filter
       if (_searchQuery.isNotEmpty) {
         final query = _searchQuery.toLowerCase();
         if (!task.title.toLowerCase().contains(query) &&
@@ -33,22 +31,17 @@ class TaskProvider with ChangeNotifier {
         }
       }
 
-      // Category filter
       if (_selectedCategory != null && task.category != _selectedCategory) {
         return false;
       }
 
-      // Status filter
       if (_selectedStatus != null && task.status != _selectedStatus) {
         return false;
       }
 
-      // Priority filter
       if (_selectedPriority != null && task.priority != _selectedPriority) {
         return false;
       }
-
-      // Completed filter
       if (!_showCompleted && task.status == TaskStatus.completed) {
         return false;
       }
@@ -113,7 +106,6 @@ class TaskProvider with ChangeNotifier {
         final List<dynamic> tasksList = json.decode(tasksJson);
         _tasks = tasksList.map((json) => Task.fromJson(json)).toList();
       } else {
-        // Add some sample tasks for demonstration
         _addSampleTasks();
       }
     } catch (e) {
@@ -122,7 +114,6 @@ class TaskProvider with ChangeNotifier {
     }
 
     _isLoading = false;
-    // Use post frame callback to avoid setState during build
     WidgetsBinding.instance.addPostFrameCallback((_) {
       notifyListeners();
     });

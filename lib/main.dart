@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'providers/task_provider.dart';
 import 'providers/theme_provider.dart';
 import 'models/app_theme.dart';
-import 'screens/home_screen.dart';
+import 'screens/home/home_screen.dart';
 
 void main() {
   runApp(const TaskFlowApp());
