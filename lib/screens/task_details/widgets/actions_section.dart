@@ -70,8 +70,8 @@ class ActionsSection extends StatelessWidget {
           TextButton(
             onPressed: () {
               context.read<TaskProvider>().deleteTask(task.id);
-              Navigator.pop(context); // Close dialog
-              Navigator.pop(context); // Go back to home
+              Navigator.pop(context);
+              Navigator.pop(context);
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
                   content: Text('Task deleted successfully!'),

@@ -23,7 +23,6 @@ class ThemeProvider with ChangeNotifier {
     }
 
     _isLoading = false;
-    // Use post frame callback to avoid setState during build
     WidgetsBinding.instance.addPostFrameCallback((_) {
       notifyListeners();
     });

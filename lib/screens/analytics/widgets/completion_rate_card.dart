@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../../models/app_theme.dart';
 import '../../../providers/task_provider.dart';
-import '../../../widgets/stats_card.dart'; // Assuming ProgressStatsCard is in stats_card.dart
+import '../../../widgets/stats_card.dart';
 
 class CompletionRateCard extends StatelessWidget {
   const CompletionRateCard({super.key});
