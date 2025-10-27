@@ -9,13 +9,6 @@
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 | ![1](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397957.png) | ![2](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397984.png) | ![3](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397993.png) | ![4](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398002.png) |
 | ![5](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398008.png) | ![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398015.png) | ![7](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398074.png) |                                                                                                                    |
-
-
-### Architecture
-
-- **Clean Architecture**: The project follows a well-organized folder structure with a clear separation of concerns, promoting maintainability and scalability.
-- **Provider Pattern**: State management and dependency injection are effectively handled using the Provider package, ensuring a reactive and efficient UI.
-- **Model-View-Provider**: A clear separation between data models, UI components (views), and business logic (providers) enhances code readability and testability.
 ## 🛠 Technical Implementation
 ### Key Technologies
 
@@ -25,7 +18,12 @@
 - **FL Chart**
 - **Intl**
 - **UUID**
+- 
+### Architecture
 
+- **Clean Architecture**: The project follows a well-organized folder structure with a clear separation of concerns, promoting maintainability and scalability.
+- **Provider Pattern**: State management and dependency injection are effectively handled using the Provider package, ensuring a reactive and efficient UI.
+- **Model-View-Provider**: A clear separation between data models, UI components (views), and business logic (providers) enhances code readability and testability.
 ## ✨ Features
 
 - **Task Management**: Create, edit, and organize tasks with ease
