@@ -6,11 +6,13 @@
 
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
 |                                                                                                                    |                                                                                                                    |                                                                                                                    |                                                                                                                    |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![1](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397957.png) | ![2](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397984.png) | ![3](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397993.png) | ![4](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398002.png)](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398005.png) |
-| ![5](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398008.png) | ![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398015.png) |![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398074.png) 
+| ![1](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397957.png) | ![2](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397984.png) | ![3](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397993.png) | ![4](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398002.png) |
+| ![5](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398008.png) | ![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398015.png) | ![7](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398074.png) |                                                                                                                    |
+
 
 ### Architecture
 
