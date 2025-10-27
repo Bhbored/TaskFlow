@@ -3,9 +3,6 @@
 **TaskFlow** is a cutting-edge task management and productivity application built with Flutter, designed to help users efficiently organize their lives, boost productivity, and gain intelligent insights into their work habits. This application showcases modern mobile development practices, a clean architecture, and a rich, intuitive user experience.
 
 
-
-
-## 📸 Screenshots
 ## 📸 Screenshots
 
 |                                                                                                                    |                                                                                                                    |                                                                                                                    |                                                                                                                    |
