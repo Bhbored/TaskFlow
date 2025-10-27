@@ -2,6 +2,39 @@
 
 **TaskFlow** is a cutting-edge task management and productivity application built with Flutter, designed to help users efficiently organize their lives, boost productivity, and gain intelligent insights into their work habits. This application showcases modern mobile development practices, a clean architecture, and a rich, intuitive user experience.
 
+
+
+
+## 📸 Screenshots
+
+|                                                                                                                    |                                                                                                                    |                                                                                                                    |                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| ![1](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397957.png) | ![2](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397984.png) | ![3](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761397993.png) | ![4](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398002.png)](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398005.png) |
+| ![5](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398008.png) | ![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398015.png) |![6](https://github.com/Bhbored/simple_TaskManager/blob/main/screenshots/Screenshot_1761398074.png) 
+
+### Architecture
+
+- **Clean Architecture**: The project follows a well-organized folder structure with a clear separation of concerns, promoting maintainability and scalability.
+- **Provider Pattern**: State management and dependency injection are effectively handled using the Provider package, ensuring a reactive and efficient UI.
+- **Model-View-Provider**: A clear separation between data models, UI components (views), and business logic (providers) enhances code readability and testability.
+## 🛠 Technical Implementation
+### Key Technologies
+
+- **Flutter 3.9+**: 
+- **Provider**: 
+- **SharedPreferences**: 
+- **FL Chart**: 
+- **Intl**: 
+- **UUID**:
+
+### Code Quality
+
+- **Type Safety**: Benefits from Dart's strong typing, ensuring full type safety across the codebase.
+- **Error Handling**: Comprehensive error handling mechanisms provide a stable user experience and clear feedback.
+- **Performance**: Optimized widgets and efficient rendering contribute to a smooth and responsive application.
+- **Accessibility**: Designed with accessibility in mind, including proper labels and semantic widgets.
+- **Documentation**: The codebase is well-documented with clear comments, facilitating understanding and future development.
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -44,40 +77,7 @@
 - **Data Validation**: Robust form validation and clear error handling ensure data integrity.
 - **Sample Data**: Get started immediately with pre-loaded sample tasks demonstrating the app's capabilities.
 
-## 🛠 Technical Implementation
 
-### Architecture
-
-- **Clean Architecture**: The project follows a well-organized folder structure with a clear separation of concerns, promoting maintainability and scalability.
-- **Provider Pattern**: State management and dependency injection are effectively handled using the Provider package, ensuring a reactive and efficient UI.
-- **Model-View-Provider**: A clear separation between data models, UI components (views), and business logic (providers) enhances code readability and testability.
-
-### Key Technologies
-
-- **Flutter 3.9+**: Developed with the latest Flutter framework, leveraging Material Design 3 for a modern look and feel.
-- **Provider**: Utilized for robust state management and efficient dependency injection throughout the application.
-- **SharedPreferences**: Employed for simple and persistent local data storage.
-- **FL Chart**: Integrated for creating beautiful, interactive, and customizable charts for data visualization.
-- **Intl**: Used for internationalization and flexible date and time formatting.
-- **UUID**: Generates universally unique identifiers for tasks, ensuring data integrity.
-
-### Code Quality
-
-- **Type Safety**: Benefits from Dart's strong typing, ensuring full type safety across the codebase.
-- **Error Handling**: Comprehensive error handling mechanisms provide a stable user experience and clear feedback.
-- **Performance**: Optimized widgets and efficient rendering contribute to a smooth and responsive application.
-- **Accessibility**: Designed with accessibility in mind, including proper labels and semantic widgets.
-- **Documentation**: The codebase is well-documented with clear comments, facilitating understanding and future development.
-
-## 📱 Screenshots
-
-The app includes:
-
-- **Home Screen**: A dynamic overview of tasks with statistics and quick actions.
-- **Task Details**: Detailed information and management options for individual tasks.
-- **Add/Edit Task**: An intuitive form for adding new tasks or modifying existing ones, complete with validation and smart defaults.
-- **Analytics**: Visual insights and comprehensive productivity metrics.
-- **Filter System**: Advanced filtering and search capabilities for efficient task navigation.
 
 ## 🚀 Getting Started
 
@@ -89,93 +89,7 @@ The app includes:
 
 ### Installation
 
-1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd TaskFlowAI`
-3. Run `flutter pub get` to install dependencies.
-4. Run `flutter run` to start the app.
+1. Clone the repository: `git clone [[repository_url]](https://github.com/Bhbored/simple_TaskManager)`
+2. Run `flutter pub get` to install dependencies.
+3. Run `flutter run` to start the app.
 
-### Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  provider: ^6.1.2
-  shared_preferences: ^2.2.3
-  fl_chart: ^0.68.0
-  intl: ^0.19.0
-  lottie: ^3.1.2
-  flutter_svg: ^2.0.10+1
-  uuid: ^4.4.0
-```
-
-## 🎯 Skills Demonstrated
-
-This project showcases proficiency in:
-
-### Flutter Development
-
-- ✅ Widget composition and custom widgets
-- ✅ State management with Provider
-- ✅ Navigation and routing
-- ✅ Form handling and validation
-- ✅ Local data persistence
-- ✅ Theme management and customization
-- ✅ Responsive design principles
-- ✅ Animation and transitions
-
-### UI/UX Design
-
-- ✅ Material Design 3 implementation
-- ✅ Dark/Light theme support
-- ✅ Custom color schemes and typography
-- ✅ Card-based layouts and modern aesthetics
-- ✅ Interactive elements and micro-interactions
-- ✅ Accessibility considerations
-
-### Data Visualization
-
-- ✅ Chart implementation with FL Chart
-- ✅ Data analysis and insights
-- ✅ Interactive visualizations
-- ✅ Statistical representations
-
-### Code Quality
-
-- ✅ Clean architecture and folder structure
-- ✅ Type safety and error handling
-- ✅ Code documentation and comments
-- ✅ Performance optimization
-- ✅ Best practices and conventions
-
-## 🎨 Design Highlights
-
-- **Color Palette**: Carefully chosen colors for accessibility and visual appeal
-- **Typography**: Consistent text styles and hierarchy
-- **Spacing**: Proper spacing and padding throughout the app
-- **Icons**: Meaningful icons and visual indicators
-- **Animations**: Smooth transitions and micro-interactions
-- **Feedback**: Clear user feedback for all actions
-
-
-<<<<<<< HEAD
-Potential improvements for production:
-
-- Cloud synchronization
-- Team collaboration features
-- Advanced analytics and reporting
-- Push notifications
-- Offline mode improvements
-- Export/import functionality
-- Custom themes and personalization
-=======
->>>>>>> 2ea644473b376fc8b05cd64134ecdfb9c110dd56
-
-
-
----
-<<<<<<< HEAD
-
-**TaskFlow AI** - Your intelligent productivity companion, built with Flutter ❤️
-=======
->>>>>>> 2ea644473b376fc8b05cd64134ecdfb9c110dd56
