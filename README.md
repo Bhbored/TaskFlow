@@ -28,46 +28,13 @@
 
 ## ✨ Features
 
-### 🎯 Core Functionality
-
-- **Task Management**: Effortlessly create, edit, delete, and organize tasks with a user-friendly interface.
-- **Priority System**: Prioritize your workload with a flexible 4-level priority system (Low, Medium, High, Urgent) to focus on what matters most.
-- **Categories**: Categorize tasks into predefined groups like Work, Personal, Health, Finance, Education, and Other for better organization and filtering.
-- **Status Tracking**: Keep track of your progress with clear task statuses: Pending, In Progress, Completed, and Cancelled.
-- **Due Dates**: Set and monitor task deadlines, with visual indicators for overdue tasks to ensure timely completion.
-- **Time Estimation**: Plan your time effectively by estimating and tracking the time required for each task.
-- **Tags**: Enhance task discoverability and organization by adding custom tags.
-
-### 🎨 User Interface
-
-- **Modern Design**: Experience a sleek, intuitive, and visually appealing interface adhering to Material Design 3 guidelines.
-- **Dark/Light Theme**: Seamlessly switch between dark and light themes, with preferences persistently saved for a personalized experience.
-- **Responsive Layout**: Enjoy a consistent and optimized experience across various screen sizes and devices.
-- **Smooth Animations**: Delightful and custom animations and transitions provide a fluid and engaging user experience.
-- **Beautiful Cards**: Tasks and information are presented in modern, card-based layouts with thoughtful spacing and subtle shadows.
-
-### 📊 Analytics & Insights
-
-- **Visual Charts**: Gain valuable insights with interactive pie charts and bar graphs powered by FL Chart, visualizing your task distribution.
-- **Productivity Metrics**: Monitor your performance with key metrics such as completion rates, time estimations, and overall progress tracking.
-- **Category Analysis**: Understand your workload distribution with visual breakdowns of tasks by category and priority.
-- **Smart Insights**: Receive AI-powered productivity recommendations to help you work smarter, not just harder.
-- **Statistics Dashboard**: A comprehensive dashboard provides an at-a-glance overview of your task performance and trends.
-
-### 🔍 Search & Filtering
-
-- **Real-time Search**: Quickly find any task by searching across titles, descriptions, or tags in real-time.
-- **Advanced Filters**: Refine your task list with powerful filtering options by category, status, priority, and completion status.
-- **Smart Sorting**: Organize your tasks efficiently with multiple sorting options to suit your workflow.
-- **Quick Actions**: Access common task operations directly from the task list for enhanced efficiency.
-
-### 💾 Data Management
-
-- **Local Storage**: All your task data is persistently stored locally using SharedPreferences, ensuring your information is always available.
-- **State Management**: Efficient and reactive UI updates are managed using the Provider pattern.
-- **Data Validation**: Robust form validation and clear error handling ensure data integrity.
-- **Sample Data**: Get started immediately with pre-loaded sample tasks demonstrating the app's capabilities.
-
+- **Task Management**: Create, edit, and organize tasks with ease
+- **Priority & Categories**: Set priorities (Low to Urgent) and organize tasks into categories like Work, Personal, etc.
+- **Due Dates & Status**: Track deadlines and monitor progress with clear status indicators (Pending, In Progress, Completed)
+- **Modern UI**: Clean design with dark/light theme support and smooth animations
+- **Search & Filter**: Find tasks quickly with real-time search and advanced filtering options
+- **Analytics**: Visual charts showing your task distribution and productivity metrics
+- **Local Storage**: All data saved locally on your device with automatic persistence
 
 
 ## 🚀 Getting Started
