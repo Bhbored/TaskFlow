@@ -19,20 +19,12 @@
 ## 🛠 Technical Implementation
 ### Key Technologies
 
-- **Flutter 3.9+**: 
-- **Provider**: 
-- **SharedPreferences**: 
-- **FL Chart**: 
-- **Intl**: 
-- **UUID**:
-
-### Code Quality
-
-- **Type Safety**: Benefits from Dart's strong typing, ensuring full type safety across the codebase.
-- **Error Handling**: Comprehensive error handling mechanisms provide a stable user experience and clear feedback.
-- **Performance**: Optimized widgets and efficient rendering contribute to a smooth and responsive application.
-- **Accessibility**: Designed with accessibility in mind, including proper labels and semantic widgets.
-- **Documentation**: The codebase is well-documented with clear comments, facilitating understanding and future development.
+- **Flutter 3.9+**
+- **Provider** 
+- **SharedPreferences**
+- **FL Chart**
+- **Intl**
+- **UUID**
 
 ## ✨ Features
 
